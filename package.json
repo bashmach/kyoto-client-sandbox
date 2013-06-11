@@ -1,0 +1,12 @@
+{
+  "name": "kyoto-client-sandbox",
+  "version": "0.0.1",
+  "author": "Pavel Machekhin <pavel.machekhin@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "director": "latest",
+    "kyoto-client": "latest",
+    "nodemon": "latest",
+    "request": "latest"
+  }
+}
